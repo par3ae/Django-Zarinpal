@@ -1,5 +1,5 @@
 # Django-Zarinpal
-Sample Django ZarinPal WebGate with SOAP--By AParsae @ SAMAR Web Academy
+Sample Django ZarinPal WebGate with SOAP--By Parsae @ SAMAR Web Academy
 
 <h1 dir="rtl">«بسم الله الرحمن الرحیم»</h1>
 <img src="https://raw.githubusercontent.com/aparsaee/Django-Zarinpal/master/zarinpal-logo.png">

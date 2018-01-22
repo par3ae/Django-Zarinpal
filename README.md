@@ -29,5 +29,5 @@ Sample Django ZarinPal WebGate with SOAP--By Parsae @ SAMAR Web Academy
 
 <p dir="rtl">موفق و پیروز باشید</p>
 
-<p dir="rtl">پارسائی-آموزشگاه وب ثمر
+<p dir="rtl">پارسائی
 </p>

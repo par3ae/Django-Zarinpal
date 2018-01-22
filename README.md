@@ -1,3 +1,4 @@
+<html dir="rtl">
 # Django-Zarinpal
 Sample Django ZarinPal WebGate with SOAP--By AParsaee @ SAMAR Web Academy
 <h1>«بسم الله الرحمن الرحیم»</h1>

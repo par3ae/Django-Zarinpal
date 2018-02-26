@@ -7,6 +7,12 @@ Sample Django ZarinPal WebGate with SOAP--By Parsae @ SAMAR Web Academy
 
 <p dir="rtl">برای استفاده از درگاه پرداخت زرین پال به کمک فریمورک جانگو میتوانید از نمونه کد موجود در این پروژه استفاده کنید.این پروژه به زبان پایتون نوشته شده است</p>
 
+<h1 dir="rtl">پیشنیازهای Soap</h1>
+<p dir="rtl">
+برای نصب ماژول‌های مربوطه می‌توانید از دستورات زیر استفاده نمایید:
+</p>
+<pre><code># pip install client</code></pre>
+<pre><code># pip install suds</code></pre>
 
 <h1 dir="rtl">راهنما</h1>
 

@@ -2,8 +2,7 @@
 
 # Sample Django ZarinPal WebGate with SOAP
 
-__Author__ = 'Ahmadreza Parsae'
-__Academy__ = 'SAMAR Web academy'
+__Author__ = 'Ahmadreza Parsaei'
 __License__ = "GPL 2.0 http://www.gnu.org/licenses/gpl-2.0.html"
 
 from django.http import HttpResponse
